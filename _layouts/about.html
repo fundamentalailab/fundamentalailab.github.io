@@ -17,8 +17,8 @@ layout: default
                 {%- assign profile_image_class = "img-fluid rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
@@ -60,7 +60,7 @@ layout: default
             <div class="contact-note">
               {{ site.contact_note }}
             </div>
-            
+
           </div>
           {%- endif %}
         </article>
