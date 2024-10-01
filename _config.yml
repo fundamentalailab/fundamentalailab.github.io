@@ -180,7 +180,7 @@ keep_files:
   - .nojekyll
   - .git
 
-# Plug-ins
+# Plug-ins 
 plugins:
   - jekyll-archives
   - jekyll-diagrams
