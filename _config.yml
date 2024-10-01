@@ -166,6 +166,9 @@ kramdown:
     block:
       line_numbers: false
       start_line: 1
+gems:
+  - jekyll-scholar
+
 
 # Includes & excludes
 include: ['_pages']
