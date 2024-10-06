@@ -42,6 +42,10 @@ staff:
       description: PhD Student at University Technology Nuremberg (2024-)
       website: https://scholar.google.com/citations?user=egwx6IMAAAAJ&hl=en
       picture: lukas.jpeg
+    - name: Daniel Cores
+      description: Visitor, Asst. Prof at University of Santiago de Compostela
+      website: https://scholar.google.com/citations?user=pJqkUWgAAAAJ
+      picture: dani.jpeg
     - name: Danilo de Goede
       description: PhD Student at University of Amsterdam (2023-)
       website: https://ddgoede.github.io/
@@ -90,7 +94,7 @@ affiliated:
       website: https://www.robots.ox.ac.uk/~az/
       picture: az.jpg
     - name: Hirokatsu Kataoka
-      description: Collaborator, Chief Senior Researcher, AIST, Japan
+      description: Co-supervisor, Chief Senior Researcher, AIST, Japan
       website: https://hirokatsukataoka.net/
       picture: kataoka.png
     - name: Andrei Bursuc
@@ -260,7 +264,7 @@ We put the _fun_ into fundamental research.
     <li>Kaya ter Burg (Msc thesis 2023) --> Dutch Institute of Systems and Control </li>
     <li>Luc Weytingh (Msc thesis 2023) --> AI Designer & Artist</li>
     <li>Lukas Knobel (Msc thesis 2023) --> TNO --> PhD at FunAI Lab</li>
-    <li>Sunny Soni (Msc thesis 2023) --> </li>
+    <li>Sunny Soni (Msc thesis 2023) --> Vintus </li>
     <li>Apostolos Panagiotopoulos (Msc thesis 2023) --> ING</li>
     <li>Jochem Loedeman (Msc thesis 2022) --> Xebia</li>
     <li>Anne van der Weijden (Bsc thesis 2022) --> Deloitte</li>
