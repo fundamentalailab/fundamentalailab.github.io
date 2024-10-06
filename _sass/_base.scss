@@ -333,11 +333,11 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
-  
+
   .card {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-divider-color);
-    
+
     .list-group-item {
       background-color: inherit;
 
@@ -511,7 +511,7 @@ footer.sticky-bottom {
   padding: 0;
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  
+
   @media (min-width: 640px) {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -522,7 +522,7 @@ footer.sticky-bottom {
 }
 
 .highlight-publications a {
-  display: block; 
+  display: block;
   width: 100%;
 }
 
@@ -532,54 +532,54 @@ footer.sticky-bottom {
 
 
 .highlight-publications .container {
-  display: flex; 
+  display: flex;
   padding: 1rem;
-  height: 26rem; 
-  flex-direction: column; 
+  height: 26rem;
+  flex-direction: column;
   border-radius: 0.8rem;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-duration: 300ms; 
-  transition-duration: 300ms; 
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); 
+  transition-duration: 300ms;
+  transition-duration: 300ms;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 
-  background-color: #ffffff; 
+  background-color: #ffffff;
 }
 
 .highlight-publications .container:hover {
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04); 
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
 
 .highlight-publications img {
-  object-fit: cover; 
-  object-position: center; 
-  padding-bottom: 1rem; 
-  border-radius: 0.375rem; 
-  width: 100%; 
-  height: 12rem; 
+  object-fit: cover;
+  object-position: center;
+  padding-bottom: 1rem;
+  border-radius: 0.375rem;
+  width: 100%;
+  height: 12rem;
 }
 
 .highlight-publications .date {
   font-size: 0.875rem;
-  line-height: 1.25rem; 
-  font-weight: 600; 
-  color: var(--global-theme-color); 
-  text-transform: capitalize; 
+  line-height: 1.25rem;
+  font-weight: 600;
+  color: var(--global-theme-color);
+  text-transform: capitalize;
 }
 
 .highlight-publications .title {
-  padding-bottom: 0.5rem; 
+  padding-bottom: 0.5rem;
   font-size: 1rem;
-  line-height: 1.25rem; 
-  font-weight: 600; 
+  line-height: 1.25rem;
+  font-weight: 600;
 }
 
 .highlight-publications .author-container {
-  overflow-y: auto; 
-  height: 12rem; 
+  overflow-y: auto;
+  height: 12rem;
 }
 
 .highlight-publications .authors {
-  margin-top: 0.5rem; 
+  margin-top: 0.5rem;
   font-size: 0.875rem;
   line-height: 1.25rem;
   font-style: italic;
@@ -603,7 +603,7 @@ footer.sticky-bottom {
 }
 
 .publications .item {
-  padding-top: 20px;
+  padding-top: 10px;
   display: none;
   animation: fadeInAnimation ease 0.5s;
   animation-iteration-count: 1;
@@ -614,7 +614,7 @@ footer.sticky-bottom {
   grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 1rem;
   line-height: 1.2rem;
-  padding-top: 10px;
+  padding-top: 0px;
   display: grid;
 }
 
@@ -635,7 +635,7 @@ footer.sticky-bottom {
 .publications .details {
   padding-bottom: 5px;
   display: flex;
-  justify-content: space-between;
+  justify-content: left;
   align-items: center; /* Optional: Align items vertically if needed */
 }
 
@@ -791,7 +791,7 @@ html.transition *:after {
 }
 
 // staff grid on main page
-.grid { 
+.grid {
 display: grid;
 grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
 grid-gap: 10px;
@@ -817,17 +817,17 @@ align-items: stretch;
 .event {
   margin-top: 50px;
 }
-.event-pic { 
+.event-pic {
   margin-top: 10px;
   width: 200px;
   border-radius: 50%;
   shape-outside: circle(50% at 50%);
 }
-.event-pic-left { 
+.event-pic-left {
   float: left;
   margin-right: 10px;
 }
-.event-pic-right { 
+.event-pic-right {
   float: right;
   margin-left: 10px;
 }
