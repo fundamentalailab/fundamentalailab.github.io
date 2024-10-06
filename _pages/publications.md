@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const publicationContainer = document.querySelector('.publications');
   const showMoreBtn = document.getElementById('show-more-btn');
   const publicationItems = publicationContainer.querySelectorAll('.item');
-  const numItemsToShow = 10;
+  const numItemsToShow = 50;
   let currentVisibleIndex = 0;
 
   if (showMoreBtn && publicationContainer) {
@@ -44,12 +44,12 @@ document.addEventListener('DOMContentLoaded', function() {
     showMoreBtn.addEventListener('click', showMoreItems);
     // display first items
     showMoreItems();
-    
+
     // only show button after first items have been displayed
     if (currentVisibleIndex < publicationItems.length) {
         showMoreBtn.style.display = 'block';
     }
-    
+
   }
 });
 </script>
