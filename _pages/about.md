@@ -2,13 +2,13 @@
 layout: about
 title: FunAI Lab
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: FundamentalAILab.png
   image_circular: false
-  address: 
+  address:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,7 +24,7 @@ staff:
       picture: yuki.jpg
     - name: Valentinos Pariza
       description: PhD Student at University Technology Nuremberg (2024-)
-      website: https://scholar.google.com/citations?user=jFT8a1YAAAAJ&hl=en 
+      website: https://scholar.google.com/citations?user=jFT8a1YAAAAJ&hl=en
       picture: valentinos.jpeg
     - name: Dawid Kopiczko
       description: PhD Student at University Technology Nuremberg (2024-)
@@ -40,7 +40,7 @@ staff:
       picture: walter.jpg
     - name: Lukas Knobel
       description: PhD Student at University Technology Nuremberg (2024-)
-      website: https://scholar.google.com/citations?user=egwx6IMAAAAJ&hl=en 
+      website: https://scholar.google.com/citations?user=egwx6IMAAAAJ&hl=en
       picture: lukas.jpeg
     - name: Danilo de Goede
       description: PhD Student at University of Amsterdam (2023-)
@@ -71,21 +71,21 @@ staff:
       website: https://robromijnders.github.io/
       picture: rob.jpg
     - name: Phillip Lippe
-      description: PhD Student at University of Amsterdam (2021-)
+      description: PhD Student at University of Amsterdam (2021-2024)
       website: https://phlippe.github.io/
       picture: phillip.jpeg
 affiliated:
   title: Affiliated members (e.g. current & past co-supervisors, co-supervised PhD students, guest researchers)
   people:
     - name: More to come!
-      description: 
-      website: 
+      description:
+      website:
       picture: F_logo.png
     - name: Armand Joulin
       description: Co-supervisor, principal scientist at Google Deepmind
       website: https://www.linkedin.com/in/armand-joulin-0274254/?originalSubdomain=fr
       picture: armand.jpeg
-    - name: Andrew Zisserman 
+    - name: Andrew Zisserman
       description: Co-supervisor, Professor at VGG, University of Oxford & Google Deepmind
       website: https://www.robots.ox.ac.uk/~az/
       picture: az.jpg
@@ -95,7 +95,7 @@ affiliated:
       picture: kataoka.png
     - name: Andrei Bursuc
       description: Co-supervisor, deputy scientific director at Valeo
-      website: https://abursuc.github.io/ 
+      website: https://abursuc.github.io/
       picture: andrei.jpg
     - name: Spyros Gidaris
       description: Co-supervisor, Research at Valeo
@@ -108,7 +108,7 @@ affiliated:
     - name: Sara Oliveira
       description: Co-supervisor, Post-doc at NKI
       website: https://www.nki.nl/research/find-a-researcher/researchers/sara-oliveira/
-      picture: Sara.jpg
+      picture: sara.jpg
     - name: Tijmen Blankevoort
       description: Co-supervisor, Research at Meta AI
       website: https://www.linkedin.com/in/tijmen-blankevoort-a5633a24/?originalSubdomain=nl
@@ -168,12 +168,12 @@ affiliated:
 ---
 
 Welcome!
-We are the Fundamental AI research Lab (FunAI Lab) at the [University of Technology Nuremberg (UTN)](https://www.utn.de/), directed by [Prof. Dr. Yuki M. Asano](https://yukimasano.github.io/). 
-We conduct fundamental AI research with high impact. We develop core technologies of current Foundation Models:
+We are the Fundamental AI research Lab (FunAI Lab) at the [University of Technology Nuremberg (UTN)](https://www.utn.de/), directed by [Prof. Dr. Yuki M. Asano](https://yukimasano.github.io/).
+We develop core technologies of current Foundation Models:
 * Self-supervised learning
 * Vision-language and multimodal learning
 * LLM reasoning and planning
-* Post-pretraining and instruction tuning 
+* Post-pretraining and instruction tuning
 
 We put the _fun_ into fundamental research.
 
@@ -181,7 +181,7 @@ We put the _fun_ into fundamental research.
 <div class="projects">
   <h2 class="category">News</h2>
 <!--   <ul>
-    
+
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
@@ -211,7 +211,7 @@ We put the _fun_ into fundamental research.
             </h2>
             <div class="card-text">
               {{person.description}}
-              <!-- <p style="margin-bottom: 0rem;">{{person.description}}</p> 
+              <!-- <p style="margin-bottom: 0rem;">{{person.description}}</p>
               <ul class="network-icon" aria-hidden="true">
               {% if person.website -%}
                 <li><a href="{{person.website}}"><i class="fas fa-globe"></i></a></li>
@@ -266,20 +266,20 @@ We put the _fun_ into fundamental research.
     <li>Anne van der Weijden (Bsc thesis 2022) --> Deloitte</li>
     <li>Carlos Medina Temma (Msc thesis 2021) --> Qiagen </li>
   </ul>
-  
+
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
- 
+
 
   <h2 class="category">FunAI resources and code</h2>
-  You can find resources (data, code, repositories) released by FunAI Lab members <a href="https://github.com/funailab/">on our github page</a> and <a href="https://huggingface.co/funailab">on our huggingface page</a>
+  You can find resources (data, code, repositories) released by FunAI Lab members <a href="https://github.com/fundamenalailab/">on our github page</a> and <a href="https://huggingface.co/funailab">on our huggingface page</a>
 
 
-  
+
   <h2 class="category">Find us</h2>
   We are located at Ulmenstrasse 52i, 90461 Nuremberg, Germany (<a href="https://funailab.github.io/contact/">→ directions</a>).<br/>
 
-  <a href="https://github.com/funailab"><i class="fab fa-github"></i> FunAILab</a><br/>
+  <a href="https://github.com/fundamentalailab"><i class="fab fa-github"></i> FunAILab</a><br/>
   <a href="https://twitter.com/funailab"><i class="fab fa-twitter"></i> FunAILab</a><br/>
 
 </div>

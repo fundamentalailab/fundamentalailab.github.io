@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 title: Contact
-description: 
+description:
 nav: true
 nav_order: 7
 ---
@@ -16,6 +16,6 @@ Germany
 
 ---
 
-Email: coming soon
+Email: funai@utn.de
 
 ---
