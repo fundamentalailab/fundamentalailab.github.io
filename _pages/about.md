@@ -45,7 +45,7 @@ staff:
     - name: Daniel Cores
       description: Visitor, Asst. Prof at University of Santiago de Compostela
       website: https://scholar.google.com/citations?user=pJqkUWgAAAAJ
-      picture: dani.jpeg
+      picture: dani.png
     - name: Danilo de Goede
       description: PhD Student at University of Amsterdam (2023-)
       website: https://ddgoede.github.io/
