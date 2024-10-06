@@ -75,7 +75,7 @@ staff:
       website: https://robromijnders.github.io/
       picture: rob.jpg
     - name: Phillip Lippe
-      description: PhD Student at University of Amsterdam (2021-2024)
+      description: PhD Student at University of Amsterdam (2021-)
       website: https://phlippe.github.io/
       picture: phillip.jpeg
 affiliated:
