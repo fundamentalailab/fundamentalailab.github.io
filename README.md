@@ -4,4 +4,4 @@ All of these themes are available as open source under the terms of the [MIT Lic
 
 To go to the actual website, click [here](https://funai.github.io).
 
-To open the behind-the-scenes guide to updating this website, go [here](https://funai.github.io/website-notes/).
+To open the behind-the-scenes guide to updating this website, go [here](htt ps://funai.github.io/website-notes/).
