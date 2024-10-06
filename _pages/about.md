@@ -79,7 +79,7 @@ staff:
       website: https://phlippe.github.io/
       picture: phillip.jpeg
 affiliated:
-  title: Affiliated members (e.g. current & past co-supervisors, co-supervised PhD students, guest researchers)
+  title: Affiliated members (e.g. current & past co-supervisors, co-supervised PhD students, etc.)
   people:
     - name: More to come!
       description:
@@ -172,7 +172,7 @@ affiliated:
 ---
 
 Welcome!
-We are the Fundamental AI research Lab (FunAI Lab) at the [University of Technology Nuremberg (UTN)](https://www.utn.de/), directed by [Prof. Dr. Yuki M. Asano](https://yukimasano.github.io/).
+We are the Fundamental AI Lab (FunAI Lab) at the [University of Technology Nuremberg (UTN)](https://www.utn.de/), directed by [Prof. Dr. Yuki M. Asano](https://yukimasano.github.io/).
 We develop core technologies of current Foundation Models:
 * Self-supervised learning
 * Vision-language and multimodal learning
