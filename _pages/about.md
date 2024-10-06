@@ -23,23 +23,23 @@ staff:
       website: https://yukimasano.github.io/
       picture: yuki.jpg
     - name: Valentinos Pariza
-      description: PhD Student at University Technology Nuremberg (2024-)
+      description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://scholar.google.com/citations?user=jFT8a1YAAAAJ&hl=en
       picture: valentinos.jpeg
     - name: Dawid Kopiczko
-      description: PhD Student at University Technology Nuremberg (2024-)
+      description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://dkopi.github.io/
       picture: dawid.jpeg
     - name: Jona Ruthardt
-      description: PhD Student at University Technology Nuremberg (2024-)
+      description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://jonaruthardt.github.io
       picture: jona.jpg
     - name: Walter Simoncini
-      description: PhD Student at University Technology Nuremberg (2024-)
+      description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://walter.ashita.nl/
       picture: walter.jpg
     - name: Lukas Knobel
-      description: PhD Student at University Technology Nuremberg (2024-)
+      description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://scholar.google.com/citations?user=egwx6IMAAAAJ&hl=en
       picture: lukas.jpeg
     - name: Daniel Cores
