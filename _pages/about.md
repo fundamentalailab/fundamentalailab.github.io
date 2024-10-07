@@ -57,7 +57,7 @@ staff:
     - name: Michael Dorkenwald
       description: PhD Student at University of Amsterdam (2022-)
       website: https://mdorkenwald.com/
-      picture: michael.jpeg
+      picture: michael.jpg
     - name: Mohammadreza Salehi
       description: PhD Student at University of Amsterdam (2021-)
       website: https://ivi.fnwi.uva.nl/vislab/author/mohammadreza-salehi/
