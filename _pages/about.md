@@ -94,7 +94,7 @@ affiliated:
       website: https://www.robots.ox.ac.uk/~az/
       picture: az.jpg
     - name: Hirokatsu Kataoka
-      description: Co-supervisor, Chief Senior Researcher, AIST, Japan
+      description: Co-supervisor, Chief Senior Researcher, AIST, Japan & Oxford VGG
       website: https://hirokatsukataoka.net/
       picture: kataoka.png
     - name: Andrei Bursuc
