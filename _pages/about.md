@@ -68,7 +68,7 @@ staff:
       picture: pengwan.jpeg
     - name: Winfried van den Dool
       description: PhD Student at University of Amsterdam (2021-)
-      website: https://ddgoede.github.io/
+      website: https://amlab.science.uva.nl/people/WinfriedvandenDool/
       picture: winfried.png
     - name: Rob Romijnders
       description: PhD Student at University of Amsterdam (2021-)
