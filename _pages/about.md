@@ -42,10 +42,6 @@ staff:
       description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://scholar.google.com/citations?user=egwx6IMAAAAJ&hl=en
       picture: lukas.jpeg
-    <!-- - name: Daniel Cores
-      description: Visitor, Asst. Prof at University of Santiago de Compostela
-      website: https://scholar.google.com/citations?user=pJqkUWgAAAAJ
-      picture: dani.png -->
     - name: Danilo de Goede
       description: PhD Student at University of Amsterdam (2023-)
       website: https://ddgoede.github.io/
