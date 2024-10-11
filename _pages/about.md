@@ -42,10 +42,10 @@ staff:
       description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://scholar.google.com/citations?user=egwx6IMAAAAJ&hl=en
       picture: lukas.jpeg
-    - name: Daniel Cores
+    <!-- - name: Daniel Cores
       description: Visitor, Asst. Prof at University of Santiago de Compostela
       website: https://scholar.google.com/citations?user=pJqkUWgAAAAJ
-      picture: dani.png
+      picture: dani.png -->
     - name: Danilo de Goede
       description: PhD Student at University of Amsterdam (2023-)
       website: https://ddgoede.github.io/
@@ -248,6 +248,8 @@ We put the _fun_ into fundamental research.
 
  <h2 class="category">FunAI Lab alumni</h2>
   <ul>
+    <li>Daniel Cores (Visiting Researcher 2024)</li>
+    <li>Abhishek Jha (Visiting PhD 2024)</li>
     <li>Valentinos Pariza (Msc thesis 2024) --> PhD at FunAI Lab</li>
     <li>Jona Ruthardt (Msc thesis 2024) --> PhD at FunAI Lab</li>
     <li>Dawid Kopiczko (Msc thesis 2024) --> PhD at FunAI Lab</li>
