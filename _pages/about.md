@@ -74,6 +74,10 @@ staff:
       description: PhD Student at University of Amsterdam (2021-)
       website: https://phlippe.github.io/
       picture: phillip.jpeg
+    - name: Cathrin Titschack
+      description: Team Assistance of FunAI Lab at UTN
+      website: https://www.utn.de/person/cathrin-titschack/
+      picture: blank.jpeg
 affiliated:
   title: Affiliated members (e.g. current & past co-supervisors, co-supervised PhD students, etc.)
   people:
