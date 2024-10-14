@@ -181,6 +181,9 @@ We develop core technologies of current Foundation Models:
 
 We put the _fun_ into fundamental research.
 
+<img src="assets/img/funai-topics.png" style="max-width: calc(60% - 10px);">
+
+
 
 <div class="projects">
   <h2 class="category">News</h2>
