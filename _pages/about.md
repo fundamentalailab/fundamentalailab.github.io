@@ -77,7 +77,7 @@ staff:
     - name: Cathrin Titschack
       description: Team Assistance of FunAI Lab at UTN
       website: https://www.utn.de/person/cathrin-titschack/
-      picture: cathrin.png
+      picture: cathrin.jpg
 affiliated:
   title: Affiliated members (e.g. current & past co-supervisors, co-supervised PhD students, etc.)
   people:
@@ -270,7 +270,7 @@ We put the _fun_ into fundamental research.
     <li>Luc Weytingh (Msc thesis 2023) --> AI Designer & Artist</li>
     <li>Lukas Knobel (Msc thesis 2023) --> TNO --> PhD at FunAI Lab</li>
     <li>Sunny Soni (Msc thesis 2023) --> Vintus </li>
-    <li>Apostolos Panagiotopoulos (Msc thesis 2023) --> ING</li>
+    <li>Apostolos Panagiotopoulos (Msc thesis 2023) --> ING --> AWS</li>
     <li>Jochem Loedeman (Msc thesis 2022) --> Xebia</li>
     <li>Anne van der Weijden (Bsc thesis 2022) --> Deloitte</li>
     <li>Carlos Medina Temma (Msc thesis 2021) --> Qiagen </li>
