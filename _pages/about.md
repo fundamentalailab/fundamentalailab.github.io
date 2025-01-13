@@ -14,7 +14,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
-groups: [staff, affiliated] # support, admin,
+groups: [staff, visitors, affiliated] # support, admin,
 staff:
   title: Research Staff
   people:
@@ -34,10 +34,6 @@ staff:
       description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://jonaruthardt.github.io
       picture: jona.jpg
-    - name: Walter Simoncini
-      description: PhD Student at University of Technology Nuremberg (2024-)
-      website: https://walter.ashita.nl/
-      picture: walter.jpg
     - name: Lukas Knobel
       description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://scholar.google.com/citations?user=egwx6IMAAAAJ&hl=en
@@ -78,6 +74,21 @@ staff:
       description: Team Assistance of FunAI Lab at UTN
       website: https://www.utn.de/person/cathrin-titschack/
       picture: cathrin.jpg
+visitors:
+  title: Visitors/Remote Collaborators
+  people:
+    - name: Elena Izzo
+      description: Visiting PhD Student, University of Padova
+      website: https://scholar.google.com/citations?user=lHkGZWUAAAAJ&hl=en
+      picture: elena.jpeg
+    - name: Ryosuke Yamada
+      description: Visiting Post-Doc (from June'25), University of Tsukuba, AIST
+      website: https://www.ryosuke-yamada.net/
+      picture: ryosuke.png
+    - name: Walter Simoncini
+      description: Research Assistant
+      website: https://walter.ashita.nl/
+      picture: walter.jpg
 affiliated:
   title: Affiliated members (e.g. current & past co-supervisors, co-supervised PhD students, etc.)
   people:
