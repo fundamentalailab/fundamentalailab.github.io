@@ -202,6 +202,9 @@ We put the _fun_ into fundamental research.
 
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
+<ul>
+  <li>Jun 26, 2025: new papers: 3x ICCV, 1x Geoscience and Remote Sensing Letters, 1x MICCAI</li>
+</ul>
   <ul>
     <li>Oct 1, 2024: Start of our new lab!</li>
   </ul>
