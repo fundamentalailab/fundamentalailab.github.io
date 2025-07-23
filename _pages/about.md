@@ -66,10 +66,6 @@ staff:
       description: PhD Student at University of Amsterdam (2021-)
       website: https://robromijnders.github.io/
       picture: rob.jpg
-    - name: Phillip Lippe
-      description: PhD Student at University of Amsterdam (2021-)
-      website: https://phlippe.github.io/
-      picture: phillip.jpeg
     - name: Cathrin Titschack
       description: Team Assistance of FunAI Lab at UTN
       website: https://www.utn.de/person/cathrin-titschack/
@@ -116,6 +112,10 @@ affiliated:
       description: Co-supervisor, Research at Valeo
       website: https://www.linkedin.com/in/spyros-gidaris-22ba2a145?originalSubdomain=fr
       picture: spyros.jpg
+    - name: Shashanka Venkataramanan
+      description: Co-supervisor, Research at Valeo
+      website: https://shashankvkt.github.io/
+      picture: shashanka.jpg
     - name: Wilson Silva
       description: Co-supervisor, Professor at Utrecht University & NKI
       website: https://radiology.nkiai.nl/people/wilson-silva/
@@ -265,8 +265,9 @@ We put the _fun_ into fundamental research.
 
  <h2 class="category">FunAI Lab alumni</h2>
   <ul>
+    <li>Phillip Lippe (PhD 2021-2024) --> Google Gemini pretraining team</li>
     <li>Daniel Cores (Visiting Researcher 2024)</li>
-    <li>Abhishek Jha (Visiting PhD 2024)</li>
+    <li>Abhishek Jha (Visiting PhD 2024) --> Postdoc KU Leuven</li>
     <li>Valentinos Pariza (Msc thesis 2024) --> PhD at FunAI Lab</li>
     <li>Jona Ruthardt (Msc thesis 2024) --> PhD at FunAI Lab</li>
     <li>Dawid Kopiczko (Msc thesis 2024) --> PhD at FunAI Lab</li>
@@ -275,7 +276,7 @@ We put the _fun_ into fundamental research.
     <li>Gabriele Desimini (Msc thesis 2024) </li>
     <li>Dheeraj Varghese (Msc thesis 2024) </li>
     <li>Ryan Amaudruz (Msc thesis 2024) </li>
-    <li>Ioanna Gogou (Msc thesis 2024) </li>
+    <li>Ioanna Gogou (Msc thesis 2024) --> PhD at Amsterdam UMC</li>
     <li>Nimi Barazani (Msc thesis 2024) </li>
     <li>Gergely Papp (Msc thesis 2024) </li>
     <li>Adrian Ziegler (Msc thesis 2021) --> Tech startup</li>
