@@ -266,15 +266,15 @@ We put the _fun_ into fundamental research.
  <h2 class="category">FunAI Lab alumni</h2>
   <ul>
     <li>Phillip Lippe (PhD 2021-2024) --> Google Gemini pretraining team</li>
-    <li>Daniel Cores (Visiting Researcher 2024)</li>
+    <li>Daniel Cores (Visiting Researcher 2024) --> Assistant Prof. at USC </li>
     <li>Abhishek Jha (Visiting PhD 2024) --> Postdoc KU Leuven</li>
     <li>Valentinos Pariza (Msc thesis 2024) --> PhD at FunAI Lab</li>
     <li>Jona Ruthardt (Msc thesis 2024) --> PhD at FunAI Lab</li>
     <li>Dawid Kopiczko (Msc thesis 2024) --> PhD at FunAI Lab</li>
-    <li>Walter Simoncini (Msc thesis 2024) --> PhD at FunAI Lab</li>
+    <li>Walter Simoncini (Msc thesis 2024) </li>
     <li>Marga Don (Msc research 2024) </li>
     <li>Gabriele Desimini (Msc thesis 2024) </li>
-    <li>Dheeraj Varghese (Msc thesis 2024) </li>
+    <li>Dheeraj Varghese (Msc thesis 2024) --> PhD at UvA</li>
     <li>Ryan Amaudruz (Msc thesis 2024) </li>
     <li>Ioanna Gogou (Msc thesis 2024) --> PhD at Amsterdam UMC</li>
     <li>Nimi Barazani (Msc thesis 2024) </li>
