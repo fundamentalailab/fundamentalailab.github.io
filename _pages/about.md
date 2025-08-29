@@ -82,7 +82,7 @@ visitors:
       website: https://scholar.google.com/citations?user=lHkGZWUAAAAJ&hl=en
       picture: elena.jpeg
     - name: Ryosuke Yamada
-      description: Visiting Post-Doc (from June'25), University of Tsukuba, AIST
+      description: Visiting Post-Doc
       website: https://www.ryosuke-yamada.net/
       picture: ryosuke.png
     - name: Walter Simoncini
