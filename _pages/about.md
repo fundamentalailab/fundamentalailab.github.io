@@ -66,6 +66,10 @@ staff:
       description: PhD Student at University of Amsterdam (2021-)
       website: https://robromijnders.github.io/
       picture: rob.jpg
+    - name: Ivan Martinović
+      description: PhD Student at University of Zagreb (2025-)
+      website: https://scholar.google.com/citations?user=sQqOCocAAAAJ&hl=en
+      picture: ivan.png
     - name: Cathrin Titschack
       description: Team Assistance of FunAI Lab at UTN
       website: https://www.utn.de/person/cathrin-titschack/
