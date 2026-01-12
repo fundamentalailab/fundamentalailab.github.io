@@ -54,10 +54,6 @@ staff:
       description: PhD Student at University of Amsterdam (2021-)
       website: https://ivi.fnwi.uva.nl/vislab/author/mohammadreza-salehi/
       picture: mohammadreza.jpeg
-    - name: Pengwan Yang
-      description: PhD Student at University of Amsterdam (2021-)
-      website: https://scholar.google.com/citations?user=MDqNNcAAAAAJ&hl=en
-      picture: pengwan.jpeg
     - name: Winfried van den Dool
       description: PhD Student at University of Amsterdam (2021-)
       website: https://amlab.science.uva.nl/people/WinfriedvandenDool/
