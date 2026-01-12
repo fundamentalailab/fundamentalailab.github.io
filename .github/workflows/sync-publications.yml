@@ -1,8 +1,11 @@
 name: Sync publications from personal site
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight UTC
-  workflow_dispatch:  # allows manual trigger from GitHub UI
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   sync:
@@ -15,11 +18,9 @@ jobs:
         run: |
           git clone --depth 1 https://github.com/yukimasano/yukimasano.github.io.git source
           
-          # Sync papers.bib
           mkdir -p _bibliography
           cp source/_bibliography/papers.bib _bibliography/papers.bib
           
-          # Sync publication_preview folder
           mkdir -p assets/img
           rm -rf assets/img/publication_preview
           cp -r source/assets/img/publication_preview assets/img/publication_preview
