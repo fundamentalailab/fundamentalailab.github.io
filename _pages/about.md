@@ -89,10 +89,14 @@ visitors:
       description: Visiting Post-Doc
       website: https://www.ryosuke-yamada.net/
       picture: ryosuke.png
-    - name: Walter Simoncini
-      description: Research Assistant
-      website: https://walter.ashita.nl/
-      picture: walter.jpg
+    - name: Thomas de Min
+      description: Visiting PhD
+      website: https://scholar.google.com/citations?user=fnh_i0cAAAAJ&hl=en
+      picture: thomas.jpeg
+    - name: Avi Pandey 
+      description: Visiting PhD
+      website: https://www.prinsesmaximacentrum.nl/en/professionals/researchers/master-of-science-avi-pandey
+      picture: avi.webp
 affiliated:
   title: Affiliated members (e.g. current & past co-supervisors, co-supervised PhD students, etc.)
   people:
@@ -210,6 +214,9 @@ We put the _fun_ into fundamental research.
 
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
+<ul>
+  <li>Good start to 2026: three CVPR papers!</li>
+</ul>
 <ul>
   <li>End of 2025: our team was productive: WACV, ICLR x2,IEEE Geoscience, MICCAI
 ICCV x3, BMVC, EMNLP, NeurIPS x2, TMLR </li>
