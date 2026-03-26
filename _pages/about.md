@@ -22,6 +22,10 @@ staff:
       description: Head of Fundamental AI Lab
       website: https://yukimasano.github.io/
       picture: yuki.jpg
+    - name: Zahra Dehghanighobadi
+      description: PhD Student at University of Technology Nuremberg (2026-)
+      website: https://scholar.google.com/citations?user=ayZaENoAAAAJ&hl=en
+      picture: zahra.jpg
     - name: Valentinos Pariza
       description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://scholar.google.com/citations?user=jFT8a1YAAAAJ&hl=en
