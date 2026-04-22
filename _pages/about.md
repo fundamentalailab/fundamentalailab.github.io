@@ -78,6 +78,18 @@ staff:
       description: Researcher at DLR (2025-)
       website: https://scholar.google.com/citations?user=obnUbCoAAAAJ&hl=en
       picture: arpit.png
+    - name: Noor Ahmed
+      description: PhD Student at University of Technology Nuremberg (2026-)
+      website: https://www.utn.de/person/noor-ahmed/
+      picture: noor.jpg
+    - name: Raza Yunus
+      description: PhD Student at University of Technology Nuremberg (2026-)
+      website: https://razayunus.github.io/
+      picture: raza.jpg
+    - name: Agniv Sharma
+      description: PhD Student at University of Technology Nuremberg (2026-)
+      website: https://scholar.google.com/citations?user=dQScRJsAAAAJ&hl=en 
+      picture: agniv.jpeg
     - name: Cathrin Titschack
       description: Team Assistance of FunAI Lab at UTN
       website: https://www.utn.de/person/cathrin-titschack/
