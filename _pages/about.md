@@ -231,6 +231,9 @@ We put the _fun_ into fundamental research.
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
 <ul>
+  <li>Good continuation: three ECCV papers! + two TMLR</li>
+</ul>
+<ul>
   <li>Good start to 2026: three CVPR papers!</li>
 </ul>
 <ul>
