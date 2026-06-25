@@ -113,6 +113,10 @@ visitors:
       description: Visiting PhD
       website: https://www.prinsesmaximacentrum.nl/en/professionals/researchers/master-of-science-avi-pandey
       picture: avi.webp
+    - name: Gabriele Rosi 
+      description: Visiting PhD
+      website: https://scholar.google.com/citations?hl=it&user=8AfX1GcAAAAJ
+      picture: gabrieler.jpeg
 affiliated:
   title: Affiliated members (e.g. current & past co-supervisors, co-supervised PhD students, etc.)
   people:
@@ -231,6 +235,9 @@ We put the _fun_ into fundamental research.
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
 <ul>
+  <li>We just had our research retreat at the lovely [Speinshart AI monastery](https://speinshart.ai/)! </li>
+</ul>
+<ul>
   <li>Good continuation: three ECCV papers! + two TMLR</li>
 </ul>
 <ul>
@@ -240,9 +247,9 @@ We put the _fun_ into fundamental research.
   <li>End of 2025: our team was productive: WACV, ICLR x2,IEEE Geoscience, MICCAI
 ICCV x3, BMVC, EMNLP, NeurIPS x2, TMLR </li>
 </ul>
-  <ul>
+  <!-- <ul>
     <li>Oct 1, 2024: Start of our new lab!</li>
-  </ul>
+  </ul> -->
 
 <!--  To <a href="/events-archive/">earlier events</a> at FunAI. -->
 
