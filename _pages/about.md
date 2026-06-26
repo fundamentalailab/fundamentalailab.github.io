@@ -235,7 +235,7 @@ We put the _fun_ into fundamental research.
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
 <ul>
-  <li>We just had our research retreat at the lovely [Speinshart AI monastery](https://speinshart.ai/)! </li>
+  <li>We just had our research retreat at the lovely (Speinshart AI monastery)[https://speinshart.ai/]! </li>
 </ul>
 <ul>
   <li>Good continuation: three ECCV papers! + two TMLR</li>
