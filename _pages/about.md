@@ -102,21 +102,33 @@ visitors:
       website: https://scholar.google.com/citations?user=lHkGZWUAAAAJ&hl=en
       picture: elena.jpeg
     - name: Ryosuke Yamada
-      description: Visiting Post-Doc
+      description: Visiting Post-Doc, AIST
       website: https://www.ryosuke-yamada.net/
       picture: ryosuke.png
     - name: Thomas de Min
-      description: Visiting PhD
+      description: Visiting PhD, University of Trento
       website: https://scholar.google.com/citations?user=fnh_i0cAAAAJ&hl=en
       picture: thomas.jpeg
     - name: Avi Pandey 
-      description: Visiting PhD
+      description: Visiting PhD, 
       website: https://www.prinsesmaximacentrum.nl/en/professionals/researchers/master-of-science-avi-pandey
       picture: avi.webp
     - name: Gabriele Rosi 
-      description: Visiting PhD
+      description: Visiting PhD, Politecnico di Torino
       website: https://scholar.google.com/citations?hl=it&user=8AfX1GcAAAAJ
       picture: gabrieler.jpeg
+    - name: Imanol Estepa
+      description: Visiting PhD, Universitat de Barcelona
+      website: https://scholar.google.com/citations?hl=it&user=8AfX1GcAAAAJ
+      picture: imanol.jpeg
+    - name: Yusuke Kuwana 
+      description: Visiting PhD, Tokyo University of Science
+      website: https://scholar.google.com/citations?hl=it&user=8AfX1GcAAAAJ
+      picture: yusuke.jpg
+    - name: Ryota Ishizaki
+      description: Visiting PhD, Tokyo University of Science
+      website: https://scholar.google.com/citations?hl=it&user=8AfX1GcAAAAJ
+      picture: ryota.jpg
 affiliated:
   title: Affiliated members (e.g. current & past co-supervisors, co-supervised PhD students, etc.)
   people:
