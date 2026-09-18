@@ -704,21 +704,31 @@ footer.sticky-bottom {
 }
 
 .publications .preview {
+  display: block;
   width: 120px;
-  margin-right: 20px;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
 }
 
 .publications .container {
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: 120px minmax(0, 1fr);
   gap: 1rem;
   line-height: 1.2rem;
   padding-top: 0px;
   display: grid;
 }
 
+.publications .container > figure {
+  width: 120px;
+  margin: 0;
+}
+
+.publications .container > figure picture {
+  display: block;
+}
 
 .publications .date {
-  grid-column: span 1;
   font-size: 1.0rem;
   line-height: 1.2rem;
   text-transform: capitalize;
@@ -726,13 +736,14 @@ footer.sticky-bottom {
 }
 
 .publications .content {
-  grid-column: span 4;
+  min-width: 0;
   text-align: left;
 }
 
 .publications .details {
   padding-bottom: 5px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: left;
   align-items: center; /* Optional: Align items vertically if needed */
 }
@@ -836,6 +847,15 @@ footer.sticky-bottom {
 
   .publications .publication-filter-status {
     margin-top: -0.25rem;
+  }
+
+  .publications .container {
+    grid-template-columns: 96px minmax(0, 1fr);
+    gap: 0.75rem;
+  }
+
+  .publications .container > figure {
+    width: 96px;
   }
 }
 
