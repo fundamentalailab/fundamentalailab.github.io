@@ -1,20 +1,6 @@
 ---
 ---
-<style>
-  .item {
-    display: flex;
-  }
-  .preview {
-    width: 120px;
-    margin-right: 20px;
-  }
-  .content {
-    flex: 1;
-    justify-content: left;
-    align-items: center;
-  }
-</style>
-<div class="item">
+<div class="item" data-topics="{{ entry.topics | default: '' | escape }}">
   <div class="container">
     {% if entry.preview contains '://' -%}
       <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
