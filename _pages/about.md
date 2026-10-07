@@ -90,6 +90,10 @@ staff:
       description: PhD Student at University of Technology Nuremberg (2026-)
       website: https://scholar.google.com/citations?user=dQScRJsAAAAJ&hl=en 
       picture: agniv.jpeg
+    - name: Brisca Balthes 
+      description: Joint PhD student with LMU (2026-)
+      website: https://scholar.google.com/citations?user=mTbhlM8AAAAJ&hl=en
+      picture: brisca.jpeg
     - name: Cathrin Titschack
       description: Team Assistance of FunAI Lab at UTN
       website: https://www.utn.de/person/cathrin-titschack/
