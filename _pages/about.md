@@ -243,17 +243,17 @@ We put the _fun_ into fundamental research.
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
 <ul>
-  <li>We just had our research retreat at the lovely (Speinshart AI monastery)[https://speinshart.ai/]! </li>
+  <li>Yuki received the ECVA Young Researcher Award!</li>
+  <li>We just had our research retreat at the lovely [Speinshart AI monastery](https://speinshart.ai/)! </li>
 </ul>
 <ul>
-  <li>Good continuation: three ECCV papers! + two TMLR</li>
+  <li>Good continuation: three ECCV papers (one Long Oral)! + two TMLR</li>
 </ul>
 <ul>
   <li>Good start to 2026: three CVPR papers!</li>
 </ul>
 <ul>
-  <li>End of 2025: our team was productive: WACV, ICLR x2,IEEE Geoscience, MICCAI
-ICCV x3, BMVC, EMNLP, NeurIPS x2, TMLR </li>
+  <li>End of 2025: our team was productive: WACV, ICLR x2,IEEE Geoscience, MICCAI, ICCV x3, BMVC, EMNLP, NeurIPS x2, TMLR </li>
 </ul>
   <!-- <ul>
     <li>Oct 1, 2024: Start of our new lab!</li>
