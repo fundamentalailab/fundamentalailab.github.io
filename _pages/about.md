@@ -42,6 +42,22 @@ staff:
       description: PhD Student at University of Technology Nuremberg (2024-)
       website: https://scholar.google.com/citations?user=egwx6IMAAAAJ&hl=en
       picture: lukas.jpeg
+    - name: Noor Ahmed
+      description: PhD Student at University of Technology Nuremberg (2026-)
+      website: https://www.utn.de/person/noor-ahmed/
+      picture: noor.jpg
+    - name: Raza Yunus
+      description: PhD Student at University of Technology Nuremberg (2026-)
+      website: https://razayunus.github.io/
+      picture: raza.jpg
+    - name: Agniv Sharma
+      description: PhD Student at University of Technology Nuremberg (2026-)
+      website: https://scholar.google.com/citations?user=dQScRJsAAAAJ&hl=en 
+      picture: agniv.jpeg
+    - name: Brisca Balthes 
+      description: Joint PhD student with LMU (2026-)
+      website: https://scholar.google.com/citations?user=mTbhlM8AAAAJ&hl=en
+      picture: brisca.jpeg
     - name: Danilo de Goede
       description: PhD Student at University of Amsterdam (2023-)
       website: https://ddgoede.github.io/
@@ -62,14 +78,6 @@ staff:
       description: PhD Student at University of Amsterdam (2021-)
       website: https://amlab.science.uva.nl/people/WinfriedvandenDool/
       picture: winfried.png
-    - name: Rob Romijnders
-      description: PhD Student at University of Amsterdam (2021-)
-      website: https://robromijnders.github.io/
-      picture: rob.jpg
-    - name: Lucy Farnik
-      description: PhD Student at University of Bristol (2025-)
-      website: https://lucyfarnik.github.io/
-      picture: lucy.jpeg
     - name: Ivan Martinović
       description: PhD Student at University of Zagreb (2025-)
       website: https://scholar.google.com/citations?user=sQqOCocAAAAJ&hl=en
@@ -78,22 +86,6 @@ staff:
       description: Researcher at DLR (2025-)
       website: https://scholar.google.com/citations?user=obnUbCoAAAAJ&hl=en
       picture: arpit.png
-    - name: Noor Ahmed
-      description: PhD Student at University of Technology Nuremberg (2026-)
-      website: https://www.utn.de/person/noor-ahmed/
-      picture: noor.jpg
-    - name: Raza Yunus
-      description: PhD Student at University of Technology Nuremberg (2026-)
-      website: https://razayunus.github.io/
-      picture: raza.jpg
-    - name: Agniv Sharma
-      description: PhD Student at University of Technology Nuremberg (2026-)
-      website: https://scholar.google.com/citations?user=dQScRJsAAAAJ&hl=en 
-      picture: agniv.jpeg
-    - name: Brisca Balthes 
-      description: Joint PhD student with LMU (2026-)
-      website: https://scholar.google.com/citations?user=mTbhlM8AAAAJ&hl=en
-      picture: brisca.jpeg
     - name: Cathrin Titschack
       description: Team Assistance of FunAI Lab at UTN
       website: https://www.utn.de/person/cathrin-titschack/
@@ -323,12 +315,14 @@ ICCV x3, BMVC, EMNLP, NeurIPS x2, TMLR </li>
 
  <h2 class="category">FunAI Lab alumni</h2>
   <ul>
+    <li>Rob Romijnders (PhD 2021-2026)--> Mistral AI</li> 
+    <li>Lucy Farnik (PhD U. Bristol; advised 2025-2026) </li>
     <li>Max Belitsky  (Msc thesis 2025)</li>
     <li>Filipe Laitenberger (Msc thesis 2025) --> PhD at HU Berlin</li>
     <li>Ioana Simion  (Msc thesis 2025) --> PhD at UvA </li>
     <li>Matteo Nulli  (Msc thesis 2025) --> Applied Researcher at eBay </li>
     <li>Leo Kraft (Msc thesis 2025)</li>
-    <li>Suman Navaratnarajah (Msc thesis 2025)</li>
+    <li>Suman Navaratnarajah (Msc thesis 2025)  --> PhD at UTN</li>
     <li>Phillip Lippe (PhD 2021-2024) --> Google Gemini pretraining team</li>
     <li>Daniel Cores (Visiting Researcher 2024) --> Assistant Prof. at USC </li>
     <li>Abhishek Jha (Visiting PhD 2024) --> Postdoc KU Leuven</li>
@@ -337,7 +331,6 @@ ICCV x3, BMVC, EMNLP, NeurIPS x2, TMLR </li>
     <li>Dawid Kopiczko (Msc thesis 2024) --> PhD at FunAI Lab</li>
     <li>Walter Simoncini (Msc thesis 2024) --> PhD at UvA </li>
     <li>Marga Don (Msc research 2024) --> Data Scientist at NFI </li>
-    <li>Gabriele Desimini (Msc thesis 2024) </li>
     <li>Dheeraj Varghese (Msc thesis 2024) --> PhD at UvA </li>
     <li>Ryan Amaudruz (Msc thesis 2024) --> Research Scientist at Huawei </li>
     <li>Ioanna Gogou (Msc thesis 2024) --> PhD at Amsterdam UMC</li>
