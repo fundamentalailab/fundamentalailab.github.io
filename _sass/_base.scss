@@ -703,6 +703,29 @@ footer.sticky-bottom {
   display: flex;
 }
 
+.bibtex-panel {
+  min-width: 0;
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+}
+
+.bibtex-panel__actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.bibtex-panel .highlight {
+  max-width: 100%;
+}
+
+.bibtex-panel pre {
+  max-height: 22rem;
+  overflow: auto;
+  font-size: inherit;
+}
+
 .publications .preview {
   display: block;
   width: 120px;

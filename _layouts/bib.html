@@ -104,7 +104,7 @@
             {%- endif %}
         {%- endif %}
           {%- if entry.bibtex_show %}
-            <a class="bibtex btn btn-sm z-depth-0" role="button" ><font style="color:black">Bib</font></a>
+            <button type="button" class="bibtex-toggle btn btn-sm z-depth-0" aria-expanded="false" aria-controls="bibtex-{{ entry.key | slugify }}">BIB</button>
           {%- endif %}
 
           {%- if entry.blog %}
@@ -134,14 +134,15 @@
             <strong style="border-width:2px; border-style:solid;color:red;padding:0.1em;margin:0 0.5em;white-space:nowrap;">{{ entry.highlight }}</strong>
         {%- endif %}
       </div>
-{% if entry.bibtex_show -%}
-<div class="item" style="font-size: 12px; line-height: 1.1;">
-          <!-- Hidden bibtex block -->
-          <div class="bibtex hidden">
-            {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
+      {% if entry.bibtex_show %}
+        <div id="bibtex-{{ entry.key | slugify }}" class="bibtex-panel" hidden>
+          <div class="bibtex-panel__actions">
+            <button type="button" class="bibtex-copy btn btn-sm z-depth-0">Copy BibTeX</button>
+            <span class="bibtex-copy-status" role="status" aria-live="polite"></span>
           </div>
-          {%- endif %}
-          </div>
+          {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
+        </div>
+      {% endif %}
     </div>
   </div>
   <hr class="separator">
